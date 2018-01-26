@@ -50,5 +50,6 @@ public class App {
         //
         Element element1 = cache.get("key1");
         System.out.println(">>>" + element1.toString());
+        System.out.println(">>>" + element1.toString());
     }
 }
