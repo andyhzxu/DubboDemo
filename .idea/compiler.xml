@@ -19,6 +19,7 @@
         <module name="consumer" />
         <module name="ehcache" />
         <module name="interface" />
+        <module name="portal" />
         <module name="provider" />
       </profile>
     </annotationProcessing>
@@ -27,6 +28,7 @@
       <module name="DubboDemo" target="1.7" />
       <module name="ehcache" target="1.7" />
       <module name="interface" target="1.7" />
+      <module name="portal" target="1.7" />
       <module name="provider" target="1.7" />
     </bytecodeTargetLevel>
   </component>

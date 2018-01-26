@@ -11,6 +11,7 @@
         <module>interface</module>
         <module>provider</module>
         <module>ehcache</module>
+        <module>portal</module>
     </modules>
 
     <properties>
